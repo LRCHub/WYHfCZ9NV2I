@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "白南風",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-12T11:25:03.019524Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白南風",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_白南風_Orangestar.txt"
+    }
+  ]
+}
